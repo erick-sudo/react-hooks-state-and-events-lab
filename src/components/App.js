@@ -5,8 +5,7 @@ import { useState } from "react";
 
 function App() {
 
-  const [theme, setTheme] = useState(false
-    )
+  const [theme, setTheme] = useState(true)
 
   // replace 'false' with a state variable that can be toggled between true and false
   // this will be used for the Dark Mode Toggle feature
